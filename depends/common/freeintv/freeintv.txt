@@ -1,1 +1,1 @@
-freeintv https://github.com/libretro/FreeIntv/archive/fcf494ce9578b564f9b466b593697ceb91fea137.zip
+freeintv https://github.com/libretro/FreeIntv/archive/5fc8d85ee9699baaaf0c63399c364f456097fc1e.zip
