@@ -15,7 +15,9 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Mattel - Intellivision (FreeIntv) 1.1</summary>
-		<description lang="en_GB">Supported files: .int, .bin, .rom</description>
+		<description lang="en_GB">FreeIntv is a libretro emulation core for the Mattel Intellivision designed for joypad compatibility.
+
+Supported files: .int, .bin, .rom</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.freeintv</source>
