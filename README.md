@@ -13,7 +13,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.freeintv/resources/icon.png)
+![Mattel - Intellivision (FreeIntv) icon](game.libretro.freeintv/resources/icon.png)
 
 ### Fanart
 
