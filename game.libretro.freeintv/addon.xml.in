@@ -23,6 +23,7 @@
 		</assets>
 		<summary lang="en_GB">Mattel - Intellivision (FreeIntv) 1.1</summary>
 		<description lang="da_DK">FreeIntv er en libretro-emuleringskerne til Mattel Intellivision designet til joypad-kompatibilitet.</description>
+		<description lang="de_DE">FreeIntv ist ein Libretro-Emulationskern für das Mattel Intellivision, der für Joypad-Kompatibilität entwickelt wurde.</description>
 		<description lang="en_GB">FreeIntv is a libretro emulation core for the Mattel Intellivision designed for joypad compatibility.</description>
 		<description lang="es_ES">FreeIntv es un núcleo de emulación libretro para Mattel Intellivision diseñado para ser compatible con joypad.</description>
 		<description lang="it_IT">FreeIntv è un core di emulazione libretro per Mattel Intellivision progettato per la compatibilità con i joypad.</description>
