@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.8\n"
 
 msgctxt "Addon Summary"
-msgid "Mattel - Intellivision (FreeIntv) 1.1"
+msgid "Mattel - Intellivision (FreeIntv)"
 msgstr ""
 
 msgctxt "Addon Description"
