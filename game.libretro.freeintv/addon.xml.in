@@ -21,6 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Mattel - Intellivision (FreeIntv)</summary>
 		<summary lang="en_GB">Mattel - Intellivision (FreeIntv)</summary>
 		<summary lang="es_ES">Mattel - Intellivision (FreeIntv)</summary>
 		<description lang="da_DK">FreeIntv er en libretro-emuleringskerne til Mattel Intellivision designet til joypad-kompatibilitet.</description>
