@@ -23,3 +23,9 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "FreeIntv is a libretro emulation core for the Mattel Intellivision designed for joypad compatibility."
 msgstr ""
+
+# Empty string with ID 30000
+
+msgctxt "#30001"
+msgid "Default Player 1 Controller (Restart)"
+msgstr ""
