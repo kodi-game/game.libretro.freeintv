@@ -24,6 +24,7 @@
 		<summary lang="da_DK">Mattel - Intellivision (FreeIntv)</summary>
 		<summary lang="en_GB">Mattel - Intellivision (FreeIntv)</summary>
 		<summary lang="es_ES">Mattel - Intellivision (FreeIntv)</summary>
+		<summary lang="ga">Mattel - Intellivision (FreeIntv)</summary>
 		<summary lang="it_IT">Mattel - Intellivision (FreeIntv)</summary>
 		<summary lang="ko_KR">마텔 - 인텔리버전 (FreeIntv)</summary>
 		<summary lang="ru_RU">Mattel - Intellivision (FreeIntv)</summary>
@@ -33,6 +34,7 @@
 		<description lang="de_DE">FreeIntv ist ein Libretro-Emulationskern für das Mattel Intellivision, der für Joypad-Kompatibilität entwickelt wurde.</description>
 		<description lang="en_GB">FreeIntv is a libretro emulation core for the Mattel Intellivision designed for joypad compatibility.</description>
 		<description lang="es_ES">FreeIntv es un núcleo de emulación libretro para Mattel Intellivision diseñado para ser compatible con joypad.</description>
+		<description lang="ga">Croílár aithrise libretro is ea FreeIntv don Mattel Intellivision atá deartha le haghaidh comhoiriúnacht ceap cluiche.</description>
 		<description lang="it_IT">FreeIntv è un core di emulazione libretro per Mattel Intellivision progettato per la compatibilità con i joypad.</description>
 		<description lang="ko_KR">FreeIntv는 조이패드 호환성을 위해 설계된 Mattel Intellivision용 라이브러리 에뮬레이션 코어입니다.</description>
 		<description lang="ru_RU">FreeIntv — ядро эмуляции libretro для Mattel Intellivision, разработанное для совместимости с джойстиками.</description>
