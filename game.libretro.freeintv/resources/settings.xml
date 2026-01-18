@@ -2,5 +2,6 @@
 <settings>
 	<category label="128">
 		<setting label="30001" type="select" id="default_p1_controller" values="right|left" default="right"/>
+		<setting label="30002" type="select" id="freeintv_multiscreen_overlay" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>
