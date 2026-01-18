@@ -29,3 +29,7 @@ msgstr "FreeIntv es un núcleo de emulación libretro para Mattel Intellivision 
 msgctxt "#30001"
 msgid "Default Player 1 Controller (Restart)"
 msgstr "Controlador por Defecto de Jugador 1 (Reinicio)"
+
+msgctxt "#30002"
+msgid "Onscreen Interactive Keypad Overlays (Restart and Touchscreen/Mouse Required)"
+msgstr ""

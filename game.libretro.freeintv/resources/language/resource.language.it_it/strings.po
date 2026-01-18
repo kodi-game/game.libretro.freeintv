@@ -29,3 +29,7 @@ msgstr "FreeIntv è un core di emulazione libretro per Mattel Intellivision prog
 msgctxt "#30001"
 msgid "Default Player 1 Controller (Restart)"
 msgstr "Controller predefinito del giocatore 1 (riavvio)"
+
+msgctxt "#30002"
+msgid "Onscreen Interactive Keypad Overlays (Restart and Touchscreen/Mouse Required)"
+msgstr ""

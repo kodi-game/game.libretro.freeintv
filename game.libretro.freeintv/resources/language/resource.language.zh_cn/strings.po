@@ -29,3 +29,7 @@ msgstr "FreeIntv 是美泰 Intellivision 的 libretro 仿真核心，专为游�
 msgctxt "#30001"
 msgid "Default Player 1 Controller (Restart)"
 msgstr "默认播放器1控制器（重新启动）"
+
+msgctxt "#30002"
+msgid "Onscreen Interactive Keypad Overlays (Restart and Touchscreen/Mouse Required)"
+msgstr ""

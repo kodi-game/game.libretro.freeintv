@@ -29,3 +29,7 @@ msgstr "FreeIntv — ядро эмуляции libretro для Mattel Intellivis
 msgctxt "#30001"
 msgid "Default Player 1 Controller (Restart)"
 msgstr "Контроллер игрока 1 по умолчанию (перезапуск)"
+
+msgctxt "#30002"
+msgid "Onscreen Interactive Keypad Overlays (Restart and Touchscreen/Mouse Required)"
+msgstr ""

@@ -29,3 +29,7 @@ msgstr "FreeIntv er en libretro-emuleringskerne til Mattel Intellivision designe
 msgctxt "#30001"
 msgid "Default Player 1 Controller (Restart)"
 msgstr ""
+
+msgctxt "#30002"
+msgid "Onscreen Interactive Keypad Overlays (Restart and Touchscreen/Mouse Required)"
+msgstr ""
