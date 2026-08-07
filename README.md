@@ -6,7 +6,7 @@ FreeIntv is a libretro emulation core for the Mattel Intellivision designed for 
 
 ### License
 
-GPLv3
+GPLv2+
 
 ### Icon
 
