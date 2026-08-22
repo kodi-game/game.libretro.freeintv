@@ -33,3 +33,43 @@ msgstr "默认播放器1控制器（重新启动）"
 msgctxt "#30002"
 msgid "Onscreen Interactive Keypad Overlays (Restart and Touchscreen/Mouse Required)"
 msgstr "屏幕交互式键盘叠加层（需重启并使用触摸屏 / 鼠标）"
+
+msgctxt "#30003"
+msgid "Input"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Change controller settings."
+msgstr ""
+
+msgctxt "#30005"
+msgid "Specify whether the Left or Right Controller is set to Player 1 as the default."
+msgstr ""
+
+msgctxt "#30006"
+msgid "Left"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Right"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Display"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Change display settings."
+msgstr ""
+
+msgctxt "#30010"
+msgid "Enable multi-screen mode with onscreen interactive keypad overlays (370x600 PNG files) and side-by-side game/keypad display. Changing this setting requires a core restart. Mouse or touchscreen input is required to interact with the keypad overlays."
+msgstr ""
+
+msgctxt "#30011"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Enabled"
+msgstr ""
